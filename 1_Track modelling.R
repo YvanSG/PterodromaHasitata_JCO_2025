@@ -31,6 +31,10 @@ library(tidyr)
 
 # Load data ---------------------------------------------------------------
 
+# Save Movebank username and password
+# To download data, users mustregister for free at https://www.movebank.org
+movebank_store_credentials(username="ENTER_USERNAME_HERE", password="ENTER_PASSWORD_HERE")
+
 # https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study746910348
 df<-movebank_download_study(746910348, sensor_type_id = "argos-doppler-shift", 
                             attributes = "all")
@@ -174,4 +178,5 @@ leaflet(df[df$id==x,]) %>%
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # # # # #    END OF SCRIPT 1_Track modelling.R    # # # # # # # # # # # # #
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
