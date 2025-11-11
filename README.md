@@ -1,7 +1,7 @@
 # Analysis of satellite tracking data from two Black-capped Petrels (Pterodroma hasitata), 2019
 
 This repository contains R scripts used in the analysis of satellite tracking data from two Black-capped Petrels (Pterodroma hasitata) published in the Journal of Caribbean Ornithology: 
-Yvan G. Satgé, J. Brian Patteson, Bradford S. Keitt, Chris P. Gaskin, and Patrick G.R. Jodice. 2025. Satellite tracking supports hypotheses of breeding allochrony and allopatry in the Endangered Pterodroma hasitata (Black-capped Petrel, Diablotin). 2025. Journal of Caribbean Ornithology 38:**–**. https://doi.org/10.55431/jco.2025.38.59-66 
+Yvan G. Satgé, J. Brian Patteson, Bradford S. Keitt, Chris P. Gaskin, and Patrick G.R. Jodice. 2025. Satellite tracking supports hypotheses of breeding allochrony and allopatry in the Endangered Pterodroma hasitata (Black-capped Petrel, Diablotin). 2025. Journal of Caribbean Ornithology 38:59–66. https://doi.org/10.55431/jco.2025.38.59-66 
 
 ## Article abstract
 
